@@ -1,0 +1,18 @@
+ll Fac[MAX];
+ll C(ll n, ll r)
+{
+    if(n < r)
+        return 0;
+    return Fac[n] * binpow(Fac[n - r] * Fac[r], mod - 2, mod) % mod;
+}
+void sieve(){
+    Fac[0] = 1;
+    rep(i , 1 , MAX){
+        Fac[i] = (Fac[i - 1] * i)%mod;
+    }
+}
+
+ll P(ll n, ll r)
+{
+    return nCr(n, r) * f[r] % mod;
+}
