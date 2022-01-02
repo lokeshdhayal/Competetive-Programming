@@ -1,0 +1,3054 @@
+101111
+
+110
+011
+
+ 011
+ 110
+1001
+1100
+
+
+
+5 11 15
+6  7 15
+
+
+2 3 7
+
+1
+
+
+1 2 0 3
+
+
+0 3 -2 4 -1 -3
+
+
+-3 -2 -1 0 1 2 3 4
+
+
+a a
+
+
+2 4 1 3
+1 2 3 4
+
+1 2 3 4
+1 2 3 4
+
+d(x) = d(y) + d(z)
+
+2 8
+1 5
+
+2 3 4
+
+
+
+2 3
+
+
+10 11
+
+10 11
+
+3
+
+11
+
+a^b = u
+a+b = v
+
+a+b = a^b - 2*(a&b);
+a&b = (a^b - (a+b))/2
+a|b = a^b + a&b
+
+
+5 6
+
+5*6
+
+a/b = a%b
+
+a > b
+
+3 -> 1 , 2
+4 8
+1 2
+
+
+
+4*3+3
+
+
+4 -> 3
+3 -> 2
+2 -> 1
+
+50 3
+
+1 3 2
+
+a%b b%a
+a > b
+a%b   b%a
+0,b-1 b
+
+11111
+
+3 7 9 14 63
+n*sqrt(n)*log(n)
+a*b = gcd(a,b)*lcm(a,b)
+
+
+3 4
+1 2 3
+1 2 3
+2 1 3
+3 2 1
+
+1 2 3 4
+1 2 4 3
+1 3 2 4
+1 4 3 2
+2 1 3 4
+4 3 2 1
+
+
+
+aaaaaaaaaaaaaaaaaaaaaaaa
+
+
+aaa
+abb
+xyx
+abb
+
+
+aaaaa
+
+
+ABAB
+
+
+11 1
+10 2
+ 
+
+
+(3 * 2 * 3 * 2)
+3*2*6*2
+1021
+
+100
+
+2*1*1 - 2
+0 0 10
+
+10 - 2
+
+
+3*1*3*2 - 2-> 16 + 28
+1 0 12 1
+
+2 1 7 2
+
+3 5 4 1 5
+
+1 3 2 5 4
+
+2 1 2
+
+1
+
+
+
+
+1 3 3 6
+
+4 3 3 3 2 1 5*4*3*2 120
+3 4 3 3 2 1
+
+
+
+1 2 3 4
+
+2 3 4 1
+
+
+1 2 3 4
+2 3 4 1
+
+2 3 4 1
+4 1 2 3
+
+1 4
+2 3
+1 3
+2 4
+
+
+6 5 4
+3 2 
+1
+
+
+5 4
+##.#.#
+##..##
+##..##
+##..##
+######
+
+
+177890
+
+
+2 3 1 2
+(()))()) -> 3
+
+5 1 1 5
+((((()())))) -> 7
+
+5 1 4 1 1 5
+((((()(((()())))) -> 6
+
+
+k == 0 || k1 == 0
+x == 1 y == 1 corner
+
+
+even both k is odd -> no
+else Yes
+
+odd -> No
+
+
+x -> odd -> ? k even , k1 x/2
+
+
+
+
+
+1 2 3 2
+
+1 2 3
+
+
+1
+
+1 2 3
+
+2
+
+3
+
+3 4 4 5 10 13
+
+
+2 2 4 7 7 7 
+
+3 4
+ 2 2 4 7 7 7
+ 0 0 1 0
+
+a[i] - 4 + 1 -> 4
+i - val + 1
+
+
+
+1 1 1 1 1 
+
+3  2  5
+4 10  8
+1  2 10
+
+
+x1 - x2 = ?
+
+
+
+1 0 0 0 0
+1 0
+
+x ^ 2 - y -> z ^ 2
+
+
+
+
+
+x ^ 2 = y + z ^ 2
+x ^ 2 - z ^ 2 = y
+
+(x - z) * (x + z) = y
+
+
+x > z
+
+(x - z) = 
+
+2 4 6
+
+8
+
+5 6
+
+5 6 8 7 3 4 
+
+1900 >= 
+
+10 ^ 5 * 5 * 19 * 19 * 19 
+
+
+1 -> 
+
+1    2      3
+1+3 1+3+2  1 3 3
+
+1 1+2 3*2
+
+
+R..
+BBR
+.R.
+
+
+3
+3 1 4
+6 2 0
+
+
+3 5 0
+6 2 0
+
+
+1 2 4
+4 3 1
+
+1 1 3 1 5
+5 1 3 1 1
+
+3 1 4
+6 2 0
+
+6
+2 3
+4 1
+
+j
+
+a_i - i + a_j + j
+
+a_i + i = a_j + j
+
+
+1 15 4
+
+
+2 3 1
+
+1
+
+11
+
+(n-1)*2^(n - 2)*__popcount()
+
+1 * 1 *1
+
+
+000000101000 -> n -> 2*1
+
+10
+
+111
+
+11
+11
+
+3
+
+2*2*2
+
+0 1 1
+1 1 1
+1 1 0
+
+
+1
+
+3
+2 1->2
+
+
+
+0 0 0 0 0 0 0 0 
+
+k * n * n
+
+
+H S
+
+H_ = 0.3 * H + 0.7 * S
+S_ = 0.7 * H + 0.3 * S
+
+
+H = 1
+S = 0; 
+0 -> 0
+1 -> 0
+[0.3 0.7] [0.3 0.7]
+[0.7 0.3] [0.7 0.3]
+
+H_ = 1*(H+S) + 18*H + 5*S
+S_ = 2*(H+S) + 18*S + 5*H
+
+H_ = 19*H + 6*S
+S_ = 20*S + 7*H
+
+
+
+1 0 0 0
+
+a_ = b + c + d
+b_ =  
+
+0 1 1 1
+1 0 1 1
+1 1 0 1
+1 1 1 0
+
+a b
+
+a + b
+b
+
+[ a1 , a2 , a3 , a4 , b1 , b2 , b3 , b4]
+[ a1 , a2 , a3 , a4 , b1 , b2 , b3 , b4]
+0.5 -> 0.5 (1^2 + 2 ^ 2) * 0.5
+1 -> 0.5 3   
+0 -> 0   0.5 3.5
+
+
+[ 0 ,  0.5 * 1 + 0 , ]
+[ 0 ,  0.5 * (0 + 0)]
+
+
+8 7 -> 6!
+4 -> 6!
+2 * (n - 2)!
+
+
+
+
+0 -> 1 -> right -> n
+1 -> 0 -> eight
+
+
+0 -> max(0 , 1);
+01
+01
+
+11
+11
+
+00
+00
+
+10
+01
+
+
+1 1 1 2 2 3
+
+111
+101
+100
+011
+001
+
+
+-1  2  2 3 11
+ 3  2 -1 2 11
+
+1
+ 1 2 3 4  5  6
+[1 2 8 6 32  ]
+2 * 1
+
+2 * 2
+1 1
+
+4 3 2 1
+
+
+[8        , 2        ,  7        , 3 , 1]
+[{0 , 8}  , {1 , 10} ,  {1 , 9} ]
+1 -> 10
+
+
+t = C/(x + C) + C*x/(x + C) 
+
+
+1 4 3 2
+
+
+6 2 4 3 5 1
+
+
+
+125 127
+
+
+
+2
+
+
+1 1
+2 2
+1 2
+2 1
+
+
+n ^ 2
+
+1 2 2
+1 2 3
+1 1 2
+1 1 3
+1 3 3
+2 2 3
+2 3 3
+
+
+
+1 -> 5 , 2 -> 2
+1 -> 2 , 2 -> 3 , 3 -> 2
+3 -> 5 , 2 -> 2
+
+2 3 4 5 6 7 8 9 10
+
+
+1 2 3
+
+
+1 2 3
+
+1 1 1
+
+
+1 1 1 
+1 2 2
+1 2 1
+1 1 2
+
+
+1 1 1
+1 1 3
+
+
+1 2 4
+
+
+
+
+
+1 -> 1
+2 -> 1 2
+3
+4
+
+
+2 3 1 4
+1 2 3 4
+
+
+4 1 3 2
+1 4 3 2
+
+
+3 2 1
+1 1 1  
+
+
+
+
+1 2 3 4 5 6 4 3 2 1
+5 5
+
+
+more than two longest incr or de -> 2
+^ ^ -> lenght
+1 -> logest
+
+
+
+I K
+
+1 2
+
+
+cost 1
+2 -> 3
+3 -> 3
+4 -> 3
+3
+
+left , right
+sigma(1 <= i <= min(left, right)) ( C(left - 1,i - 1) * C(right , i) )
+
+
+
+
+C(n , r) = left!/(i - 1)!(left - i + 1)!
+
+
+d
+
+
+1 2 3
+4 5 6
+7 8 9
+
+1 2 3
+2 3 0
+0 0 0
+
+1 2 1
+0 2 -1
+
+3 3 3
+2 2 1
+3 2
+
+
+
+
+0 0 0
+2 0 1
+
+3 7 5 
+
+
+1 2
+
+3 4
+
+1 2   ->   4 3
+
+
+
+4 3 2 1
+
+1 2
+
+1 
+1 -> 2 
+2 -> 3
+
+
+2
+2 3
+1 -> 2
+2 -> 3
+
+
+
+Sus -> [2,2]
+[2,3,2]
+[2]
+
+3 4
+1 -> 1
+2 -> 2
+
+
+
+1 2
+1 2
+
+1->2
+2->1
+
+2 1
+1 2
+1->1
+2->2
+
+
+
+
+2 5 3 4 1
+
+
+0 2 0 2 0
+
+
+4 3 2 1
+
+
+1 2
+2 3
+
+3 4
+3 4
+
+
+
+3 2 
+1 2
+2 2
+
+
+3 2
+3 4
+3 3
+
+
+
+1 2 3 4 5 6 7
+L L L L L R R
+
+
+
+1 6 3 4 5 2 7
+
+
+5 6 1 2 7 4 3
+
+7 2 1 6 5 4 3
+1 2 7 6 5 4 3
+
+5 6 7 2 1 4 3
+
+
+7 6 5 2 1 4 3
+
+3 4 1 2 5 6 7
+
++  -  -  + + -  - - +  +  -  + + -
+1  1 -1 -1 1 1 -1 1 1 -1 -1 -1 1 1
+
+-1
+
+2
+
+
+dbcadabc
+
+dbca
+
+
+a b
+
+a+b>b+a
+
+
+db
+dbc
+
+12   123
+123  12
+
+1 - 2
+1 - 3
+
+
+best_end+1,end
+1,end-best+1
+
+end-
+
+4
+3 2 0
+6 5 1
+7 4 0
+8 1 1
+
+
+
+3  6  7   8
+1  1  4  13
+
+
+1 2 3
+2 3 1
+
+
+1 1 2 2 2
+5 5 4 4 6
+
+4 5 5 6
+2 1 1 2 
+
+
+2 * x ^ 2 + 2 * y ^ 2 + 2 * z ^ 2 - 2*x*z-2+
+
+
+
+8 3 1
+
+abab
+ab
+
+34
+ba
+4
+
+14
+2
+
+
+12
+2*(2+1)
+
+3
+
+1 2 3
+1 2 4
+1 2 5
+
+
+YES
+2
+1 4
+4
+5 3 2 1
+5
+4 1 2 3 5
+be_tharaki
+
+
+2 4 4
+
+2
+
+
+-2  0  0 
+-6 -4 -4
+
+-8
+
+-6   -4 -4
+-14  -12 -20 -28 -36
+-22 -30 
+
+2 8
+
+if(head==NULL&&head->next==NULL)
+        return head;
+yaha first line me tu check kar kar raha hai ki
+head null hai and head next next bhi null hai par jab head null hai to head next kaha se aaya
+
+if(head==NULL||head->next==NULL)
+        return head;
+
+-5 -4 -3 -2 -1 0 1 2 3 4 5
+
+
+3 
+1 2
+
+5
+2 3
+
+(6-3)/3
+1 2 3
+
+8
+
+3 4 5
+1 2 3
+
+
+
+-1 1 2 3 4
+
+2 2 2 2
+
+
+
+
+3
+1 3 4 9 10 12 13 27 
+10 9 + 1
+
+1 3 
+1 1 1 1 1
+
+
+2^n
+
+
+100
+3^2 + 3^
+
+1100
+
+
+1 - green
+2 - white
+3 - red
+4 - blue
+5 - yellow
+6 orange
+
+
+
+
+  111
+ 1101
+11001
+10011
+
+22224
+
+
+[][)()][
+
+[)())())()]
+
+[())]())[())](
+
+[())[()(]]
+
+
+[][][]()()() -> 0
+[())]( -> 2
+[[())](] -> 
+[())]([())])
+
+
+2 1 1 1 2
+
+7
+5
+
+
+a+b = a^b + 2*(a&b)
+a^b = a|b - a&b
+a+b = a|b + a&b
+
+u,v
+
+a+b=v;a^b=v;
+
+a&b = (u-v)/2
+
+a&b
+
+(a&b)&(a^b)==0
+
+[u^(x),(x)]
+
+[u+x,x]
+
+
+
+https://atcoder.jp/users/lokesh_2052
+https://codeforces.com/profile/lokesh_2052
+https://www.codechef.com/users/lokesh_2052
+
+
+c1 c2
+a1 a2
+
+
+
+101
+110
+
+
+01000
+00001
+00011
+00011
+00001
+00010
+
+0
+
+
+
+0 0 0 0 0 0
+
+
+https://codeforces.com/problemset/problem/1592/E
+https://codeforces.com/problemset/problem/1599/H
+https://codeforces.com/problemset/problem/1580/C
+https://codeforces.com/problemset/problem/1575/L
+https://codeforces.com/problemset/problem/1572/B
+
+
+
+ 3  2  1  0
+
+11 00 11 00
+
+
+5  5  5  0
+
+
+01 01 11 0
+
+
+11 10 01 11 00
+
+0 0 0 11 00
+0 0 11 11 11
+
+NO -> odd
+
+1 0 0 1
+
+1 1 1 1
+
+1 1 0 1 1 1 0
+
+
+
+
+1 1 1 0 0 1 1 1
+
+101
+
+0010000
+
+
+11111
+
+1001
+110111
+
+110
+011
+
+
+111001
+
+11110111
+44440444
+
+
+11110111
+1001
+1001
+
+
+
+
+
+acbac
+
+a    -> 1
+ac   -> 2
+acb  -> 3
+acba -> 4
+acbac-> 5
+
+
+S1 -> 2
+S2 -> 1 
+
+3
+
+
+Ai/Ai
+
+R G B
+1 2 4
+3 1 3
+2 3 2
+
+
+
+
+(x - k) = y + 2*k
+
+x-y = 3*k
+
+k = 1;
+
+
+
+more than 3 char
+
+aaabbbccc
+
+
+abbbcaacc
+abacacbbc
+
+
+
+abbc
+
+
+
+abbccc     -> abbccc
+aabbbcccc  -> abacbbccc
+aaabbbccc  -> abacacbbc
+aaaaabbbbcc-> aabaacabbccc
+
+aaaaaaaaaaaaaaaaaaabccc
+acaaaaaaaaaaaaaaaaacac
+abac
+
+2<=
+
+aacaaaaacacacac
+
+ccacacacacccccccccccc
+aacacacacaccccccccccccc
+
+
+s,n,k
+
+s -> animals
+n -> animal pens
+k -> 
+
+5289 217 5522
+
+5289-217 = 5072
+
+
+757139 322016 258205
+757139
+322016
+
+435123
+5
+
+1 4 1 1 1
+1 4  4 1
+1 1 4 1 1
+
+3
+
+k
+
+5 -> "YES"
+6 -> "YES"
+7 -> "YES"
+8 -> "YES"
+9 -> "NO"
+
+(n/k)*(k)
+
+aaabbb
+
+
+aa
+
+9 9 9
+
+255
+
+
+
+99
+
+k1*1 + k2*2 + k3*3 <= k
+k1+k2+k3
+
+
+k1<=9
+k2<=99
+
+2 5
+
+
+1 2 3 5 5 5
+0 0 0 1 1 1
+
+
+1 2 3 4 5
+
+
+
+1 2
+2 1
+2 3
+
+
+9 99 INTF
+
+255-108
+
+147
+
+
+3   9
+
+
+1 2 3
+2 2 3
+2 1 3
+1 1 3
+
+12
+
+9
+
+
+6 6 9
+
+
+
+125 000000
+
+2 5 7
+
+3 5
+
+1 2 3 4
+
+
+2 3 4 5 6
+
+0 0 0 1 2
+
+
+2 3 4 10 20 30 40
+
+3 13 
+
+
+2*2 2*5 3*2 5*3 2*3
+
+10
+11
+01
+
+1 2343
+1 3
+
+12
+
+
+1 2 3
+
+
+
+1 . 2 3 . 5
+
+
+1 2 5 10 25 50 100
+1 2 5 10 25 50 100
+1 2 5 10 25 50 100
+
+1 2 5
+
+
+
+
+
+343
+
+
+8 8 8
+
+4 5 8 9 11 17
+4 0 0 0 0  0
+
+4 0 2 
+
+
+3 1 4 2 3 1
+1 1 1
+
+
+0 2 3 4 7 8
+1 3 0 2 1 4
+
+c.lcm - d/lcm = x
+
+
+
+c/gcd - d*gcd = x
+
+c = x*gcd + d*gcd^2
+
+d*gcd^2 + x*gcd - c = 0;
+
+
+
+a*x^2 + b*x + x; 
+
+
+gcd = ;
+
+
+-b +-
+
+3 2 -4 -2 0
+
+7 6 2
+
+
+(A+x)*(B+x)*(C+x)
+
+(AB+(A+B)*x+x*x)*(C+x)
+
+ABC + ABx + ACx + ABx + x*x*x
+
+1 1 1 0 1
+
+0
+
+010
+100
+111
+
+0010
+0010
+0010
+
+2 2 2 1 2
+
+
+1 2 1 3 1 4 1
+
+1 2 3 4
+
+
+
+1 2 3 -> 6
+1 2 4 -> 7
+
+
+2 3 4 -> 9
+2 3 5 -> 10
+2 4 5 -> 11
+2 4 6 -> 12
+2 4 7 -> 13
+2 4 8 -> 15
+
+
+3 6 12
+21
+
+1 3 5
+
+n*n
+
+
+1111111
+     11
+
+3 2 1
+
+111100
+  1000
+111000
+
+
+
+if(a>=b)
+
+
+
+111100
+
+10101
+10101
+
+1
+
+
+11100
+11001
+
+11010
+
+
+10101
+00101
+
+11100
+11100
+
+
+11100
+10011
+01001
+
+
+
+000
+
+01010
+
+1011
+
+1010101
+
+0 1
+
+
+1010101
+1111111
+
+
+
+001
+000
+000
+
+000
+000
+000
+
+
+001
+001
+001
+
+
+
+000
+101
+000
+
+1 | 4 5 9 10
+  |
+       |
+       |
+       |
+2
+2
+3
+6
+7
+8
+2 3 6 7 8
+
+
+  11
+ 101
+ 110
+1000
+
+
+1000
+1000
+1000
+
+
+   1
+  11
+ 110
+ 111
+1011
+1111
+
+Impossible
+
+
+4
+4 2
+abcd
+3 1
+abc
+4 3
+aaaa
+9 3
+abaabaaaa
+
+
+
+abbbcd
+acaacc
+
+
+
+
+
+a
+abbb
+acaacc
+baaabb
+
+
+2
+
+abaabaaaa
+abaabaaab
+3
+8
+a -> 1
+b -> 1
+
+
+1 2 3 4 5
+
+3 2
+
+1
+1 2 3 -> 2
+4 2 3 -> 3
+
+
+2919
+1
+2
+9
+
+
+
+111000
+000111
+
+
+
+5
+
+
+
+1 3 6 10
+1 2 3 4
+
+
+1 6 10
+
+1 2 3 4
+
+
+2 3
+1 1
+
+
+2 3 4 7
+
+
+
+2 4
+
+2 3 4
+
+
+
+1 0 3
+
+
+
+1 2 3
+
+0 0
+
+1 | 3 5
+
+0 1
+
+
+1 3 7
+1 2 1 2
+
+1  3  4 7 
+
+1 2 1 2 1
+
+
+3 1 2 1 2 1 3 
+3 1 1 1 1 1 1
+        1 1 3 
+
+
+1 2 3 4 3 2 1
+
+6 5 4
+
+2 3 5 2 2
+
+
+1 2 3
+
+
+
+Lokesh Dhayal 
+
+
+1 2 3 7 6 5 4 9 8 10
+
+
+
+7
+10
+4
+2
+12
+10
+2
+
+
+2
+12
+10
+2
+4
+10
+
+
+
+Hello Lokesh , How are you and what are you doing
+
+
+1 3 2
+
+
+1      -> 2
+1 3    -> 2
+1 3 2  -> 4
+3 2    -> 1
+3      -> 1
+2      -> 1
+
+1 -> greater that 1
+
+
+1 3 2
+
+
+1
+
+
+n * sqrt(n)
+
+
+caba
+
+
+
+aa
+
+2
+
+abaca
+
+
+aa
+
+abab
+
+Lose
+
+aa
+
+aa
+
+
+
+
+aaaaaa
+
+
+
+
+18 8 8
+
+
+10 8
+18 10
+
+
+15 38
+
+
+23 15
+38 23
+
+23 8
+15 8
+
+23 15
+
+
+a , b
+
+a , a - b
+a - b , a
+
+
+b , a - b
+a , b
+
+
+b , a
+
+a-b , b
+
+
+2*b-a
+
+2*b-a , a-b
+b , 2*b-a
+
+
+
+c * lcm(a,b) - d*gcd(a,b) = x
+
+c * a*b/gcd(a*b) - d*gcd(a,b) = x 
+
+
+c*a*b = gcd(a,b)*gcd(a*b)*d + x*gcd(a,b)
+
+
+
+gcd(a,b) = a
+
+
+
+(d+x)/c
+
+2 gcd() == 1  ** (d+x)/c
+
+
+-7 -1  4 5 10
+-7 -8 -4 1 11
+
+
+
+-1 -2 3 -4  2 6 1  6  1
+-1 -3 0 -4 -2 4 5 11 12
+
+log(n)
+
+
+6    8    4    2
+
+
+
+
+6    2    1    2  
+
+
+
+
+
+
+3*2  2*2*2   2*2  2
+
+6   8*2     4  2*8
+
+6   16    4   16
+6   
+
+222 2
+
+
+2*2  2*2  3*3
+
+
+
+12  3  20  5  80 1
+3
+
+
+
+
+
+
+
+
+
+
+12   3  20   5  80  1
+
+ 3   3   5   5   5  1
+
+
+ 3 5 15
+
+
+ 1 2 3
+
+
+
+(x/gcd(a,b) +d)/c
+
+
+n * log(n) 
+
+
+3 11
+
+2
+1 16
+
+
+109 53
+ 34 83
+
+ 2*17
+
+2*109 
+
+
+aaaabbbb
+bbbbaaaa
+
+3   4 4 5
+
+
+1  2   3  4
+2 1       1
+
+
+
+
+
+x1 > x2 && y1 > x2
+min(x1-x2,y1-y2)
+
+
+x1 < x2 && y1 > y2
+min(x2-ssx1,y1-y2)
+
+0 3
+3 1
+4 10
+
+
+1
+
+
+
+777777777777
+
+3+1+2 = 6
+
+
+n   
+
+
+
+7 -> 0 , 7   
+
+1->sqrt(n)
+1111111111114
+
+
+111114
+
+
+
+1
+
+
+
+
+345
+556
+
+56
+53
+
+
+555
+555
+
+555
+
+
+
+435
+565
+
+
+
+535
+564
+
+
+3000
+7988
+
+
+
+3120
+7788
+
+
+799
+300
+
+
+
+
+0 00  321
+  99
+
+0 00   
+
+
+
+1111
+
+
+3 -> 1
+2 -> 1
+6 -> 1
+
+
+2  -> 2
+3  -> 2
+6  -> 2
+4  -> 2
+5  -> 2
+1  -> 2
+
+1
+
+
+
+
+1
+
+sum k
+
+sum 0 <= 5000
+k 0 <= 32
+
+
+posiotion how many 1?
+
+5->1 2->0
+
+
+2*
+
+7 7 
+
+O(n) -> cases where sum is odd -> simple case
+
+2 case -> sum can be divided into equal parts
+
+
+2 2 4
+
+
+5 4 3
+2 1 2  2 2 3
+
+  2
+
+1 2 2 2 3
+1 3 2 2 2
+0
+
+
+2100 1900 1600 3000 1600
+
+
+
+1 2 3 4 5
+
+
+1 3 4 1 2
+2
+
+1 4 3 1 2
+
+
+
+
+7 1 2 3 1 5 6
+
+O(n)
+
+
+
+1 3 1 4 5
+
+2
+
+
+1 
+
+
+1 
+
+1
+
+
+
+1.Tell me about yourself.
+2.What are your strengths?
+3.What are your weaknesses?
+4.Why do you want this job?
+5.Where would you like to be in your career five years from now?
+6.What's your ideal company?
+7.What attracted you to this company?
+8.Why should we hire you?
+9.What did you like least about your last job?
+10.When were you most satisfied in your job?
+11.What can you do for us that other candidates can't? 
+12.What were the responsibilities of your last position?  
+13.Why are you leaving your present job?
+14.What do you know about this industry?  
+15.What do you know about our company? 
+16.Are you willing to relocate?  
+17.Do you have any questions for me?
+
+
+1.What are Data structure do you know?
+2.Do you know about oops.
+3.You are given two sorted link list you need to merge them?
+4.reverse the string . reverse the vovels.
+5.Sorting algorithm you know?Which one is fav?can you write the code
+6. do you fibonacci number?
+
+
+
+abcde = ebcda
+aecd  = eacd
+aeoa = aoea
+aaaeobo = ooeaaba
+
+
+
+1 2 3 4 3 2 1
+
+
+3 5
+1 4 4 3 4
+1 4 1 4 2
+1 4 4 4 3
+
+1 -> 1 ? 
+
+
+1 1 1 
+1 2 3
+
+? 
+
+
+4 3
+
+1 2 3 4
+
+5 3
+
+1 2 3 4 5 got answer
+odd -> always possible
+
+1 2 3
+2 3 4
+1 2 4
+1 3 4
+
+
+
+200% work
+
+
+
+2
+
+4
+
+1 2 3 4 5 6
+
+
+even -> 
+    even -> we will get the answer
+    odd  -> we will not get answer
+
+3 2
+5 2
+
+
+1 2 3 4 5 6 7
+4
+
+
+//https://codeforces.com/contest/1092/problem/D1
+//https://codeforces.com/contest/1092/problem/D2
+
+
+3 1
+
+3
+
+n*(n-1)/2 + m*(m-1)/2 + p1*(m-1) + p2 * (m-1)  + p1*
+
+
+
+
+
+0 1 2 3 4
+
+0 1 1 0 1
+
+
+
+0 1 1 0 1
+
+
+##
+##
+
+
+00
+00
+
+01
+00
+
+
+23
+13
+
+    8
+
+a
+ans = max  4  -> one thing
+any x,y  = 1  -> one
+
+
+###
+###
+###
+
+##
+##
+
+
+2 2
+1 
+
+###
+
+
+
+1 1 1 2 2 4 4 1 1 1
+
+
+2
+
+1
+1 2
+2 1
+1 1
+
+AB
+
+
+ 
+AA
+​AB
+​BA
+​BB
+​
+
+A....B
+ A
+ B 
+200% dp
+
+
+
+
+
+if string front 1,n-1 is not palindrome it is impossible to do
+
+4
+1 0 1
+
+
+a b c
+
+  1            2          3
+a+2*c+3*b  b+2*a+3*c   c+2*b+3*a
+
+
+-2a+b+c
+
+a   + 3*b + 2*c = p
+2*a +   b + 3*c = q
+3*a + 2*b +   c = r
+
+
+a - 2*b + c = q - p
+a  +  b - 2*c = q-r
+-2a + b + c = r-p
+
+
+
+3a + 4b + 5c = p+q
+
+
+abs(a - mex(....,a));
+a-1,a+1
+
+
+0 2 1
+
+
+
+(2^count(0)-1)*(2^count(1) - 1).....)2^count(2)*
+
+mex = 1
+mex = 3
+
+
+
+101001
+1
+0
+
+
+index = ? , 1 0
+
+
+(A*(A^B) - 1)%P = 0;
+
+
+
+4 3 2 1
+
+3 1 2 4
+
+
+
+1 2 3 4
+
+
+5 4 3 2 1
+
+
+2 4  3  1  5
+
+        4  5
+
+2 1 4 3 6 5
+
+
+2 5 4 3 1
+2 3 4 1
+
+4 3 2 1
+
+
+2 3 1 4
+
+
+1 2 3
+
+2 3 1
+
+
+
+2 1 4 3
+
+
+
+-8 -7 -3 0 7
+
+
+x^2 + x^2 < (x+1)^2 + (x-1)^2
+
+
+
+3  10
+3   9
+
+
+3 3 4
+9+9+16 = 34
+
+10 4
+
+2 2 3 3
+
+4 4 9 9 = 26
+
+8
+
+
+9  3
+
+9 9 9 = 27
+
+2 2 2 3 = 4 4 4 9 
+
+
+
+
+ 4  3 3 2
+16 16 8 4
+
+16 8 , 4 16
+
+4  1 4
+
+
+
+1 5 2 7 8 2 
+
+
+8 7 5 2 2 1
+
+8   
+
+
+
+2 3 5 6 10 15 30
+
+
+2 - 10 
+
+100
+
+
+2 4 5 
+
+
+ 6  3 7 3
+
+-4 -4 0 0
+
+
+1 2 3
+1 2 3
+0 0 0
+
+1 2 3
+0 1 2
+1 1 1
+
+
+
+1 2 1
+ 
+0 0
+1 2
+
+
+
+-1 0 1
+ 2 2 0
+ 1 2 2
+
+
+1 2  2
+0 0 -1
+
+
+2 -1 7 3
+
+2  2  8  8
+0 -1 -1 -5
+
+2  2  10  10
+0 -3  -3  -7
+
+10
+
+ 10
+-10
+
+
+(end+1)/2
+
+
+2 -3 -3
+
+
+2 -4 4 0
+
+2  2   6  10
+0 -6 -10 -10
+
+
+1    1
+0   -
+
+3
+
+//https://codeforces.com/problemset/problem/1406/D
+
+
+a -a b -b
+
+
+
+2 -2 -4 4
+
+
+(2-2)+(2+2)+(2+4)+(2-4)
+0+4+6+2
+12
+
+
+(-2-2)+(-2+2)+(2+4)+(-2-4)
+
+4+0+2+6
+12
+
+
+6+2+0+8
+16
+
+2+6+8
+16
+//https://codeforces.com/contest/615/problem/D
+
+
+
+
+up    1
+down  0
+
+up = down+up*3
+down = down*3+up
+
+
+3   10
+1   6
+
+
+30+6
+
+
+70 70 70  70 70 70
+
+i -> 70
+j -> 70
+k -> 35
+l -> 
+
+
+
+
+1 4 5
+
+5-4+1
+2
+//https://cses.fi/problemset/task/1196
+
+
+#...#.    ######
+..#...    #.#...
+....#.    #...#.
+#.....    ######
+......    ..#...
+..#..#    
+
+
+
+
+1 2 3 4 5 
+
+
+2
+
+1 2 3
+
+
+m 
+
+p
+k-p
+
+
+//https://codeforces.com/problemset/problem/1270/D
+
+
+u,v
+
+(u-v)/2 , (u-v)/2 , u
+even
+
+1 2 3 4 3
+
+
+
+a+b = a|b + a&b
+
+a^b = 
+
+a-b 
+= 
+
+&
+
+
+
+a b c
+
+a^b a&b -> 2
+
+
+c^a c^b
+
+
+
+11  1 3 7 -> 2
+13  1 5 7
+15  1 
+
+
+9   -> 2 7
+
+
+
+111  111  111  0  10
+
+
+100 54 43 10 10 7 5 3 3 1
+
+
+
+1
+
+1 2 3 -> 6
+1 2 4 -> 7
+3 6 12 -> 21
+
+26/7 = 4
+
+
+26 6
+
+21   (1<<6)
+
+1 1 1 1 1 1
+1 2 2 2 2 2
+1 2 3 3 3 3
+20  5
+
+15   32
+
+
+15   10  16
+
+
+11   6   
+
+
+
+1 1 1 1 1 1
+1 2 2 2 2 2
+1 2 3 3 3 3
+1 2 3 5 5 5
+
+
+
+1 2 3 5 7 8
+
+
+21   5   32  15
+
+16   4   16  10
+12   3    8   6
+ 6   2    4   3
+ 2   1    1   1
+
+
+1 2 3 4 5 6
+
+
+5
+
+
+..#
+.##
+###
+
+
+. is odd answer will be no
+     #
+######
+######
+# ####
+  ####
+# ####
+######
+
+
+
+
+.##.#   -> YES
+.##     -> YES
+..      -> YES
+#.#     -> NO 
+
+
+....
+...#
+
+
+
+
+##
+##
+
+
+
+3 4  -> 4
+
+
+
+
+####
+####
+####
+
+
+2  ,  2
+
+
+H   V
+
+3   4
+
+
+4 4
+
+H = 2
+V = 6
+
+
+####
+####
+####
+####
+//https://codeforces.com/contest/846/problem/E
+
+
+1 5 2 6 3 7 4
+
+
+version 1 -> 1 0 0 0 0 0 0 0
+version 2 -> 
+
+n version
+
+
+
+4 10 8
+
+
+
+1 3 10
+3 2 5
+
+
+
+https://codeforces.com/contest/19/problem/C
+https://codeforces.com/contest/7/problem/D
+https://codeforces.com/contest/825/problem/F
+https://codeforces.com/contest/727/problem/E
+https://codeforces.com/problemset/problem/154/C
+
+
+https://codeforces.com/contest/22/problem/E
+https://www.codechef.com/MAY20A/problems/BINLAND
+LOKESH
+H
+
+
+LOKESH
+
+
+2 2 2 3 3 9 9 9
+
+
+ 1 1  2 1  3
+-1 1 -1 2 -1
+
+  1 0 0 0 0
+
+
+4^(2*n-2)
+
+n
+
+4*(n-2) * (n-1) * 4
+
+
+
+3
+
+4 * 4^(1) * (4-1)
+
+(n-1)*4
+
+
+
+2
+
+1 -> 30
+
+2*4^(n-2)*3
++(n-3)*3*3*4^(n-3)
+
+
+
+1 0
+
+1 1 -> 1
+
+
+1 1*2+1
+
+1 3 -> 2
+
+3 1 -> 
+
+
+3 4
+
+
+0 1
+1 1
+1 3
+3 4
+
+
+y=x+y
+x=y
+
+[1][1][1,1]
+      [1,0]
+
+
+2 1
+
+
+i*i*i*i*i*i
+
+2*2*2*2*2*2
+
+2^6
+
+
+8 -> coprime ? 
+
+99999
+
+99999
+45  36   27   18     9
+ 1  10  100 1000 10000
+
+
+
+3 10
+
+x y
+
+2*y-x , 2*x-y , x , y
+
+5*y , 5*x , 4*y-x , 3*x-2*y , 3*y-x , x , 3*x-y , y , 2*(x-y) , 2*x-3*y
+
+
+0,5 , 5,0
+-1,4 , 2,-3
+2,-2  3,-2
+
+2*x
+
+
+10
+
+...
+
+
+1
+
+200
+
+.......
+
+
+....
+##..
+.##.
+..##
+
+
+
+a 10*9*9*9*9
+a 
+
+
+.......
+
+
+2*10*99999
+
+
+10*9^
+
+
+
+1 5 3 4 2
+
+
+1 1 1 1 1
+1 1 1 1
+1 1 1
+1 0
+1
+
+
+1 3 2 1
+
+
+1 1 1 1 1
+1 1 1 1
+2 1 1
+3 1
+
+1 1 1 1 1
+1 1 1 1 
+2 1 1
+3 1
+  0 0 0 1
+
+
+(k*1 + (1<<2)*k + (1<<3)*k + (1<<4)*k)*()
+
+
+1
+
+C(n,2) * (1 << k) * 
+
+
+
+  R S P
+A 0 1 1
+B 1 1 0
+
+
+x+(b-y)=p
+y+(c-z)=q
+(a-x)+z=r
+
+
+
+
+x-y  = p-b
+y-z  = q-c
+-x+z = r-a
+
+
+
+  0  0 222
+172 50   0
+
+
+
+10+53+34
+63+34 => 97+172 -> 269
+
+
+
+min(a1,b3-p)+min(a2,b1-q)+min(a3,b2-r);
+
+
+value = p+q+r;0<=p<=min(a1,b1) 
+
+
+
+1 2 3 1 2 3
+2 3 4 2 3 4
+
+
+2 3 1 -> 6
+1+1
+
+
+ 10  53 256
+172 103  34
+
+10 + 53 + 103+34
+
+200
+
+
+   167  29
+ 11 145 530 
+
+
+29 + 11 + 145 + 
+
+
+
+
+1 2 3
+
+stack -> solution
+
+
+1 - 2
+2 - 1
+3 - 0
+
+1 - 0
+2 - 1
+3 - 2
+
+
+
+100
+
+
+10 -> sqrt(n)
+
+
+2   3   4   5   6   7   8   9   10
+4
+25
+
+25
+75
+
+5
+
+1 1
+1 2
+1 3 ->
+
+
+n*log(n)
+
+Team Name : NA
+Name of winner : Lokesh Dhayal
+Contact number of the winner (WhatsApp number):7728941704
+Registration Number:20192052
+Name of the department you won an event in: PowerSurge
+Event Name : codesparks 2021 
+Position: 3rd
+Bank Name: PUNJAB NATIONAL BANK
+Branch Name:Parbatsar
+Account Holder's Name:Lokesh Dhayal
+Account Number:15942191062110
+IFSC Code: PUNB0930300
+Email : lokeshdhayalcharanwas@gmail.com
+
+
+
+1 4 3 2
+1 2 3 4
+
+
+this is about final year project
+
+
+Matrial UI 
+
+1 Typography -> it is use for text to look cool , 
+         variant -> h1,h2
+         align -> cneter,le
+         color -> 
+         gutterBotton -> margin bottom
+
+2 CssBaseLine:
+          Add it above all for maintaining good styling
+
+3. AppBar -> for heading 
+       
+
+
+0*.25 + 1*0.75*0.25 + 2*0.25*0.25 + 3*0.25*0.25*0.25
+
+
+->    Pending video to watch 
+        https://www.youtube.com/watch?v=US1IzHrwbvc from 2.00.00
+
+11
+-5 0 -11 0
+
+-5 0 10 -11 0
+0 10
++ve 
+
+
+max(segmen) 
+
+
++ve peek > d impossible
+
+-ve <= d-peek+ve
+
+
+AAG -> AAG -> 
+
+
+
+
+
+AG
+AG
+
+
+AA -> 2
+
+
+AG
+
+
+TTT
+TTT
+
+AGC
+AGC
+
+
+3 + 3 + 3
+
+
+AG
+
+AG
+AA
+
+
+AGGGGGGGG
+GGGGGGGGG
+
+AGG
+
+
+AGG 
+GGG
+
+AGCCTT
+CCCCCC
+TTTTTT
+TTTCCC
+AACTT
+TTTTT
+GGGG
+
+
+
+2->
+
+Ready -> 
+
+
+2^2
+1^1
+1^33
+
+
+5 
+
+3
+2 , 2
+
+
+1 -> 
+
+
+
+1  -> 2 >= n && 2<=3
+
+//https://codeforces.com/contest/534/problem/C
+
+Plugin "react" was conflicted between "package.json » eslint-config-react-app » C:\Users\renuka\desktop\Final Year Project\ecommerce\node_modules\eslint-config-react-app\base.js" and "BaseConfig » C:\Users\renuka\Desktop\Final Year Project\ecommerce\node_modules\eslint-config-react-app\base.js".

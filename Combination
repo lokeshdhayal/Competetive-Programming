@@ -1,18 +1,46 @@
 ll Fac[MAX];
 ll C(ll n, ll r)
 {
+	if(n < r)
+        return 0;
+return Fac[n] * binpow(Fac[n - r] * Fac[r], mod - 2, mod) % mod;
+}
+void sieve(){
+	Fac[0] = 1;
+	rep(i , 1 , MAX){
+	    Fac[i] = (Fac[i - 1] * i)%mod;
+	}
+}
+
+ll P(ll n, ll r)
+{
+    return nCr(n, r) * f[r] % mod;
+}
+
+
+
+https://brilliant.org/wiki/pigeonhole-principle-definition/
+
+
+https://artofproblemsolving.com/wiki/index.php/Pigeonhole_Principle
+
+
+
+
+
+ll Fac[MAX],iFac[MAX];
+ll C(ll n, ll r)
+{
     if(n < r)
         return 0;
-    return Fac[n] * binpow(Fac[n - r] * Fac[r], mod - 2, mod) % mod;
+    return Fac[n] * iFac[n - r] % mod * iFac[r] % mod;
 }
 void sieve(){
     Fac[0] = 1;
     rep(i , 1 , MAX){
         Fac[i] = (Fac[i - 1] * i)%mod;
     }
-}
-
-ll P(ll n, ll r)
-{
-    return nCr(n, r) * f[r] % mod;
+    fr(i , MAX){
+        iFac[i] = binpow(Fac[i] , mod - 2 , mod);
+    }
 }

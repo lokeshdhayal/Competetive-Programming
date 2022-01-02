@@ -1,41 +1,51 @@
-#include<iostream>
 #include <bits/stdc++.h>
-#include<stdio.h>
 using namespace std;
-int main(void) {
-  unsigned long long h, w;
-  unsigned long long tmp_h;
-  unsigned long long cats;
-  unsigned long long height;
-  int counter;
-
-  while (cin >> h >> w) {
-    if (h == 0 && w == 0)
-      break;
-
-    for (int n = 1; ; n++) {
-      tmp_h = h;
-      counter = 0;
-      cats = 1;
-      height = h;
-
-      while (tmp_h != 1) {
-        if (tmp_h % (n + 1) != 0)
-          break;
-
-        tmp_h /= n + 1;
-        counter++;
-        cats += pow(n, counter);
-        height += pow(n, counter) * tmp_h;
-      }
-
-      if (tmp_h == 1 && cats >= w) {
-        cout<<n<<'\n';
-        cout << cats - w << " " << height << '\n';
-        break;
-      }
+#define MX 100000
+vector<int> p[100005];
+int a[100005],nex[100005],dp[20][100005];
+int main()
+{
+    int n,q;
+    scanf("%d%d",&n,&q);
+    for (int i=1;i<=n;i++)
+    scanf("%d",&a[i]);
+    for (int i=2;i<=MX;i++)
+    {
+        if (p[i].empty())
+        {
+            nex[i]=n+1;
+            for (int j=i;j<=MX;j+=i)
+            p[j].push_back(i);
+        }
     }
-  }
-
-  return 0;
+    dp[0][n+1]=n+1;
+    for (int i=n;i>0;i--)
+    {
+        cout<<a[i]<<'\n';
+        dp[0][i]=dp[0][i+1];
+        for (int j:p[a[i]])
+        {
+            dp[0][i]=min(dp[0][i],nex[j]);
+            nex[j]=i;
+        }
+    }
+    for (int i=1;i<20;i++)
+    {
+        for (int j=1;j<=n+1;j++)
+        dp[i][j]=dp[i-1][dp[i-1][j]];
+    }
+    while (q--)
+    {
+        int l,r,ans=0;
+        scanf("%d%d",&l,&r);
+        for (int i=19;i>=0;i--)
+        {
+            if (dp[i][l]<=r)
+            {
+                ans+=(1<<i);
+                l=dp[i][l];
+            }
+        }
+        printf("%d\n",ans+1);
+    }
 }

@@ -1,19 +1,27 @@
-import java.util.*;
-import java.math.BigInteger;
 import java.util.Scanner;
-public class lokesh {
-	public static void main(String args[]){
-		int N = 0;
-		Scanner sc = new Scanner(System.in);
-		while(true){
-			N = sc.nextInt();
-			if(N == 0){break;}
-			BigInteger a = BigInteger.ZERO;
-			for(int i = 0;i < N;i++){
-				BigInteger p = sc.nextBigInteger();
-				a = a.add(p);
-			}
-			System.out.println(a);
-		}
-	}
+import java.math.BigInteger;
+import java.io.*;
+import java.util.*;
+import java.math.BigDecimal;
+
+class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+      /*  if (System.getProperty("ONLINE_JUDGE") == null) {
+            try {
+                System.setOut(new PrintStream(
+                    new FileOutputStream("output.txt")));
+                sc = new Scanner(new File("input.txt"));
+            }
+            catch (Exception e) {
+            }
+            long startTime = System.nanoTime();
+            long endTime = System.nanoTime();
+            System.out.println("Took "+(endTime - startTime) + " ns"); 
+        } */
+       // int t = sc.nextInt();
+        BigDecimal a = new BigDecimal(2.71828);
+        a = a.pow(100000005,100000007);
+        System.out.println(a);
+    }
 }

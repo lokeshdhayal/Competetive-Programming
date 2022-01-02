@@ -1,0 +1,170 @@
+x^2 - 1  = 24
+
+
+(x-1)(x+1) = 2*2*2*3 -> 4*2*3
+x > 3
+
+x prime 
+
+3*3-1 = 8
+
+
+7%2 1 , 2
+x 
+
+
+2^3*3*x
+
+
+x*(4-1)*2*2*2
+
+x*2^5 - x * 2^3
+
+
+
+(x+1)*(x-1)
+
+
+x+1 -> even 2*
+
+x-1 -> 2*
+
+x -> x%3 -> 1 2
+x-1,x+1 -> 3
+
+9*9-1 = 80
+
+
+15*15-1 = 224 -> 4
+
+
+Whole
+
+
+(x-1)*(x+1)
+
+
+2*2*2*3
+
+x -> x-1 -> evne 2*
+x -> x+1 -> even 2
+
+2*(1 2)
+
+
+x-1 -> 2*p
+x+1 -> 2*(p+1)
+
+(2*p)*(2*(p+1))
+
+4*p*(p+1)
+8
+
+
+link
+
+1->2->3->4->5
+2->1->4->3->5
+
+par = NULL
+head = 1
+
+temp1 = 1
+temp2 = 2
+new = 3
+
+
+head = 2->1
+
+par =1
+ptr= 3
+
+
+head = 2->1->4->3
+par = 1
+ptr = 3
+
+temp1 = 3
+temp2 = 4
+new = 5
+
+par= 3
+ptr=5
+
+head == NULL
+1 -> NILL
+
+
+N * solve(N * head){
+	if(head ==NULL || head->next == NULL){
+	    return head;
+	}
+	N * ptr = head;
+	N * par = NULL
+	while(ptr != NULL && ptr->next != NULL){
+	     N *temp1 = ptr;
+	     N *temp2 = ptr->next;
+	     N * newOne = temp2->next->next;
+	     if(par==NULL){
+	        head=temp2;
+	        head->next = temp1;
+	        temp1->next=new_one;
+	        par=temp1;
+	     }
+	     else{
+	         par->next=temp2;
+	         temp2->next=temp1;
+	         par=temp1;
+	     }
+	     ptr=next_one;
+	}
+	return head;
+}
+
+
+
+k -> reverse whole link list
+
+
+1->2->3->4->5->6->7->8 k =3
+
+3->2->1->6->5->4->7->8
+
+c++ -> reverse(1,end) -> vector -> 
+
+
+1->2->3->4
+
+curr_ptr = 1
+pre_ptr = NULL
+
+while(curr != NULL){
+    N * temp = curr; 
+    N * next = curr->next;
+	curr->next = pre;
+	pre=temp;
+	curr = next;
+}
+return pre
+
+pre=NULL
+curr = 1
+temp = 1
+
+
+1->NULL
+pre=curr
+curr= 2->1->NULL
+
+3->2->1->NULL
+
+temp 2
+next = 3
+curr = 3
+pre = 2
+
+
+
+ans * 
+
+
